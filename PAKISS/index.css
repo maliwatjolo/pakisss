@@ -1,0 +1,36 @@
+.body{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; /* Full height of the viewport */ 
+    margin: 0; /* Remove default margin */ 
+}
+
+.adorationtext, .ayawtext, .yeheytext{
+    font-size: 50px;
+    text-align: center;
+}
+
+.pic1, .inlove, .sad{
+   margin-left: 500px;
+}
+
+.sad{
+    height: 500px;
+    width: 500px;
+}
+
+.datetext{
+    font-size: 50px;
+    text-align: center;
+}
+#yesbttn, #nobttn{
+    font-size: 50px;
+   
+    padding: 10px;
+   
+}
+
+.button{
+    text-align: center;
+}
